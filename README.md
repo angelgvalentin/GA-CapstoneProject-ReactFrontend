@@ -3,6 +3,8 @@ React Frontend to final General Assembly project
 
 Grocery tracker:
 
+gottagitit.netlify.app
+
 CRUD app where user can keep track of groceries in their inventory
 
 
